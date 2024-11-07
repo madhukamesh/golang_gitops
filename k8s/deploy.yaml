@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: golang
-          image: ghcr.io/madhukamesh/golang:v1
+          image: ghcr.io/madhukamesh/golang:v2
           ports:
             - containerPort: 4200
